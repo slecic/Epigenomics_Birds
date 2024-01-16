@@ -489,7 +489,7 @@ head(meth)
 dim(meth)
 ```
 
-#### Diffetentially methylted positions (DMPs)
+#### Differentially methylated positions (DMPs)
 And R code:
 ```{}
 # Calculate differentially methylated sites (not regions) using Fisher's exact test and BH correction
